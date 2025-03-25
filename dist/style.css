@@ -695,20 +695,16 @@ video {
   background-color: transparent;
 }
 
-.bg-\[url\(\'\/images\/bg\.png\'\)\] {
-  background-image: url('/images/bg.png');
-}
-
 .bg-\[url\(\'\/dist\/images\/bg\.png\'\)\] {
   background-image: url('/dist/images/bg.png');
 }
 
-.bg-\[url\(\'dist\/images\/bg\.png\'\)\] {
-  background-image: url('dist/images/bg.png');
+.bg-\[url\(\'https\:\/\/i\.postimg\.cc\/JzZk0Xrp\/bg\.png\'\)\] {
+  background-image: url('https://i.postimg.cc/JzZk0Xrp/bg.png');
 }
 
-.bg-\[url\(\'\/\'\)\] {
-  background-image: url('/');
+.bg-\[url\(\'\'\)\] {
+  background-image: url('');
 }
 
 .bg-cover {
